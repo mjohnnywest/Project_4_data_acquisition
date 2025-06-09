@@ -12,26 +12,27 @@ The Python portion of this project is designed to acquire the data to put into t
 - Python 3.13 or higher
 - Any text editor compatable with ipynb files
 
-Required libraries to pip install:
+Required library to pip install:
 
 - pandas
 
-- sklearn
-
-
 ## Usage
 
-Ensure all required libaries are pip installed
+Ensure Pandas is pip installed
 
-Ensure "lending_data.csv" is in the "Resources" folder
+Ensure all statements that yolu would like to upload is in the "statements" folder 
 
-Ensure the "Resources" folder is in the same folder as "credit_risk_classification.ipynb"
+Ensure you are no longer using the data in the "output" folder, data will be overwritten when exported
 
-Open "credit_risk_classification.ipynb" with a text editor compatable with IYPNB files
+Ensure "project_4_data_acquisition.ipynb" is outside the "output" and "statements" folder
+
+Open "project_4_data_acquisition.ipynb" with a text editor compatable with IYPNB files
 
 Click "Run All" and allow the code to run
 
-Ensure matricies and dataframes populate correctly
+Enter numbers corresponding to the menu items listed on the cell running initialize() 
+
+When complete, either quit without saving, to keep output folder, or Finish and export data to save the dataframes
 
 ## Future Plans
 
