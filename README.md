@@ -4,6 +4,7 @@ https://lookerstudio.google.com/reporting/3deeae7d-a26e-4861-acd0-739a21d010a3
 
 Please follow the link above to visit the dashboard used for the project
 
+## Intro
 The Python portion of this project is designed to acquire the data to put into the dashboard of the project. It takes user inputs and credit card statements, and transforms the data into a format that our dashboard can read.
 
 ## Features
